@@ -1,2 +1,2 @@
-# Responsive-1
-Responsive Portfolio using Bootstrap
+# Responsive-Wireframe
+Responsive wireframe using Flexbox and Media Queries for Desktop, Tablet, and Mobile Devices.
